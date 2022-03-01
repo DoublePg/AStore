@@ -1,0 +1,6 @@
+C:/Users/36958/Desktop/ALEX-master/ALEX-master/out/build/x64-Debug/CMakeFiles/example.dir
+C:/Users/36958/Desktop/ALEX-master/ALEX-master/out/build/x64-Debug/CMakeFiles/benchmark.dir
+C:/Users/36958/Desktop/ALEX-master/ALEX-master/out/build/x64-Debug/CMakeFiles/test_alex.dir
+C:/Users/36958/Desktop/ALEX-master/ALEX-master/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/36958/Desktop/ALEX-master/ALEX-master/out/build/x64-Debug/CMakeFiles/test.dir
+C:/Users/36958/Desktop/ALEX-master/ALEX-master/out/build/x64-Debug/CMakeFiles/edit_cache.dir
