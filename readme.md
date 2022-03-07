@@ -16,7 +16,7 @@
 
 You may use Git to clone the repository from GitHub 
 
-    git clone https://github.com/DoublePg/AStore/tree/master/AStore
+    git clone https://github.com/DoublePg/AStore.git
 
 ## Server
 
@@ -37,9 +37,10 @@ You may use Git to clone the repository from GitHub
 
 The path to the dataset can be modified by changing the data_file field in Client.cc and server.cc.
 
-[Lognormal(190M 8-byte signed ints)](https://drive.google.com/file/d/1y-UBf8CuuFgAZkUg_2b_G8zh4iF_N-mq/view?usp=sharing)
-[YCSB(200M 8-byte unsigned ints)](https://drive.google.com/file/d/1Q89-v4FJLEwIKL3YY3oCeOEs0VUuv5bD/view?usp=sharing)
-[OpenStreetMap dataset](https://registry.opendata.aws/osm)
+    [Lognormal(190M 8-byte signed ints)](https://drive.google.com/file/d/1y-UBf8CuuFgAZkUg_2b_G8zh4iF_N-mq/view?usp=sharing)
+    [YCSB(200M 8-byte unsigned ints)](https://drive.google.com/file/d/1Q89-v4FJLEwIKL3YY3oCeOEs0VUuv5bD/view?usp=sharing)
+    [OpenStreetMap dataset](https://registry.opendata.aws/osm)
+
 
 # Workload
 
