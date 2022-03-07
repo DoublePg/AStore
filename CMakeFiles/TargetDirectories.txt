@@ -1,0 +1,4 @@
+/home/ppqiao/ALEX-master/CMakeFiles/edit_cache.dir
+/home/ppqiao/ALEX-master/CMakeFiles/rebuild_cache.dir
+/home/ppqiao/ALEX-master/CMakeFiles/ycsb_server.dir
+/home/ppqiao/ALEX-master/CMakeFiles/ycsb_client.dir

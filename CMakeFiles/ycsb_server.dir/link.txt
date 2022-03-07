@@ -1,0 +1,1 @@
+/usr/bin/c++  -O0 -g -mrtm -march=native  -rdynamic CMakeFiles/ycsb_server.dir/src/bench/server.cc.o CMakeFiles/ycsb_server.dir/deps/r2/src/logging.cc.o  -o ycsb_server  -L/opt/intel/mkl/lib/intel64 -Wl,-rpath,/home/ppqiao/ALEX-master/deps/boost/lib:/opt/intel/mkl/lib/intel64 deps/boost/lib/libboost_system.so deps/boost/lib/libboost_coroutine.so -libverbs -lpthread -lmkl_rt 
