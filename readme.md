@@ -11,7 +11,6 @@
     cmake 3.10.2
     g++ 7.5.0
 
-
 # Build
 
 You may use Git to clone the repository from GitHub 
@@ -31,7 +30,6 @@ You may use Git to clone the repository from GitHub
     cmake .
     make -j12
     ./ycsb_client
-
 
 # Datesets
 
