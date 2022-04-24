@@ -9,16 +9,20 @@
     cmake 3.10.2
     g++ 7.5.0
 
-# Build
+# How to Access
 You may use Git to clone the repository from GitHub 
 
     git clone https://github.com/DoublePg/AStore.git
-### Server
+
+# Build
+The path to the dataset can be modified by changing the *data_file* field in *Client.cc* and *server.cc*.
+The corresponding workload can be modified in the *ssched.spawn* function in the *Client.cc*.
+### Launch AStore server
     cd AStore/
     cmake .
     make -j12
     ./ycsb_server
-### Client
+### Launch AStore clients
     cd AStore/
     cmake .
     make -j12
